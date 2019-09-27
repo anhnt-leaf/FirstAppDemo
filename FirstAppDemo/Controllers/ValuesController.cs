@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace FirstAppDemo.Controllers {
-    [Authorize]
+    //[Authorize]
     [Route ("api/[controller]")]
     [ApiController]
     public class ValuesController : ControllerBase {

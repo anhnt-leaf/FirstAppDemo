@@ -37,6 +37,13 @@
       "httpPort": 12855,
       "useSSL": true,
       "sslPort": 44300
+    },
+    "Azure Dev Spaces": {
+      "commandName": "AzureDevSpaces",
+      "launchBrowser": true,
+      "resourceGroup": "mvpGroup",
+      "aksName": "mvpAKSC",
+      "subscriptionId": "f2d57fdc-e888-4a43-92b0-835269915a3a"
     }
   }
 }
